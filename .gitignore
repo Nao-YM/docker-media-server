@@ -1,0 +1,15 @@
+/Serviio/config/*
+!/Serviio/config/.gitkeep
+/Serviio/library/*
+!/Serviio/library/.gitkeep
+/Serviio/log/*
+!/Serviio/log/.gitkeep
+/Serviio/plugins/*
+!/Serviio/plugins/.gitkeep
+/Serviio/media/*
+!/Serviio/media/.gitkeep
+
+/Jellyfin/config/*
+!/Jellyfin/config/.gitkeep
+/Jellyfin/cache/*
+!/Jellyfin/cache/.gitkeep
